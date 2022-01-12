@@ -2,6 +2,6 @@ numpy
 pandas
 matplotlib
 altair
-statsmodelds
+statsmodels
 linearmodels
 scikit-learn
